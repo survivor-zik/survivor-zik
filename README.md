@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=survivor-zik&show_icons=true&locale=en" alt="survivor-zik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=survivor-zik&theme=dark" alt="survivor-zik" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=survivor-zik&theme=dark" alt="survivor-zik" /></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=survivor-zik&hide_total_contributions=true)](https://git.io/streak-stats)
