@@ -156,5 +156,10 @@
 </a>
 </p>
 
-[![survivor's Streak](https://github-readme-streak-stats.herokuapp.com/?user=survivor-zik&theme=dark)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=survivor-zik&theme=dark&hide_border=true" alt="survivor-zik GitHub streak stats" />
+  </a>
+</p>
 
