@@ -36,10 +36,6 @@
 <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer" alt="Azure">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
 </a>
-<!-- LangChain -->
-<a href="https://www.langchain.com" target="_blank" rel="noreferrer" alt="LangChain">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40"/>
-</a>
 <!-- LangGraph -->
 <a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer" alt="LangGraph">
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="40" height="40"/>
