@@ -160,3 +160,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=survivor-zik&theme=dark&hide_border=true" alt="survivor-zik GitHub streak stats" />
 </p>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=survivor-zik&theme=dark)](https://git.io/streak-stats)
+
