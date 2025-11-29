@@ -54,6 +54,16 @@
   <img src="https://raw.githubusercontent.com/survivor-zik/assets/main/langgraph.svg" width="40" height="40"/>
 </a>
 
+<a href="https://jenkins.io" target="_blank" rel="noreferrer">
+  <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" alt="Jenkins" width="40" height="40"/>
+</a>
+
+<!-- Kubernetes -->
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40"/>
+</a>
+
+
 <!-- Grafana -->
 <a href="https://grafana.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
