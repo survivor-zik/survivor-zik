@@ -71,7 +71,7 @@
 
 <!-- Prometheus -->
 <a href="https://prometheus.io" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/prometheus/prometheus/main/documentation/images/prometheus_logo_orange.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="40" height="40"/>
 </a>
 
 <!-- Loki -->
