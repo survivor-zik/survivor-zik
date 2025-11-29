@@ -54,6 +54,8 @@
   <img src="https://raw.githubusercontent.com/survivor-zik/assets/main/langgraph.svg" width="40" height="40"/>
 </a>
 
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+
 <a href="https://jenkins.io" target="_blank" rel="noreferrer">
   <img src="https://get.jenkins.io/art/jenkins-logo/logo.svg" alt="Jenkins" width="40" height="40"/>
 </a>
