@@ -24,6 +24,9 @@
 <a href="https://pytorch.org" target="_blank" rel="noreferrer" alt="PyTorch">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
 </a>
+<a href="https://huggingface.co" target="_blank" rel="noreferrer">
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="HuggingFace" width="40" height="40"/>
+</a>
 <!-- FastAPI -->
 <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer" alt="FastAPI">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
